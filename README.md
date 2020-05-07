@@ -2,10 +2,8 @@
 
 This is the 1st file in this new repo.
 
-## Ipsum Below
+## Website Contents
 
-asudkaksudfabsdukabsdoalsdnauksb SOME TEXT goes hereaiusbdkabsd
+1. index.html
 
-some more text goes here, lorem ipsum dolor simet etc
 
-asdasdasd 
